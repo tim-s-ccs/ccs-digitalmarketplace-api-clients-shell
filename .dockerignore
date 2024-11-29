@@ -1,0 +1,8 @@
+*
+
+!dmscripts/
+!docker_for_mac_entrypoint.sh
+!templates/
+!requirements.txt
+!schemas/
+!scripts/

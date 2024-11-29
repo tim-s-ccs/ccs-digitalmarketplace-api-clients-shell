@@ -1,0 +1,8 @@
+# Run `make freeze-requirements` to update requirements.txt
+# with package version changes made in requirements.in
+
+ccs-digitalmarketplace-apiclient
+ccs-digitalmarketplace-utils
+
+ipython
+ipython-genutils
