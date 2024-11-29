@@ -16,7 +16,7 @@ botocore==1.34.158
     #   s3transfer
 cachelib==0.1.1
     # via flask-session
-ccs-digitalmarketplace-apiclient==29.5.0
+ccs-digitalmarketplace-apiclient==29.10.0
     # via
     #   -r requirements.in
     #   ccs-digitalmarketplace-utils
